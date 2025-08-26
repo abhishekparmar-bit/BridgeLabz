@@ -1,0 +1,29 @@
+1. What is the difference between JDK and JRE?
+answer- JDK is java development kit which compile java source code to byte code .where JRE is java runtime environment
+provide environment to run java .
+
+2. What is Java Virtual Machine (JVM)?
+answer - it is java virtual machine that help java in class loader , memory management , assign variable to value and
+check run time error.
+
+3. What are the different types of memory areas allocated by JVM?
+
+
+4. What is JIT compiler?
+answer- just in time it directly provide machine code to jvm which use again and again .
+
+5. How Java platform is different from other platforms?
+answer - java platform provide advantage to run java on any platform or any Operating System.where jdk provide it byte
+coe which is platform independent.
+
+6. Why people say that Java is ‘write once and run anywhere’ language?
+answer - it means that we can code java in class and function where we can use it in any where.
+
+7. How does ClassLoader work in Java?
+
+
+8. Do you think ‘main’ used for main method is a keyword in Java?
+answer - main methode where all java start to run code
+
+9. Can we write main method as public void static instead of public static void?
+answer - No, we can't run because java is first check wheather it public and static then it check return type
